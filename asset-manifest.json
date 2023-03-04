@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.3dbf2f6e.css",
-    "main.js": "/static/js/main.8b837ca6.js",
-    "static/js/876.44016d11.chunk.js": "/static/js/876.44016d11.chunk.js",
-    "static/js/182.6aeefb2b.chunk.js": "/static/js/182.6aeefb2b.chunk.js",
+    "main.js": "/static/js/main.c40f2dd6.js",
+    "static/js/876.fa577b6a.chunk.js": "/static/js/876.fa577b6a.chunk.js",
+    "static/js/182.b36504ef.chunk.js": "/static/js/182.b36504ef.chunk.js",
     "static/js/702.dbe79fd9.chunk.js": "/static/js/702.dbe79fd9.chunk.js",
     "static/js/933.8b3efcbc.chunk.js": "/static/js/933.8b3efcbc.chunk.js",
     "static/js/619.7e34dd61.chunk.js": "/static/js/619.7e34dd61.chunk.js",
-    "static/js/95.e5cdff88.chunk.js": "/static/js/95.e5cdff88.chunk.js",
+    "static/js/593.4c4b5077.chunk.js": "/static/js/593.4c4b5077.chunk.js",
     "static/media/Amazon.jpg": "/static/media/Amazon.441ee1bc6e022b7b57d1.jpg",
     "static/media/Reliance.jpg": "/static/media/Reliance.1c07b08eded7358eaa4c.jpg",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/Cricket.jpg": "/static/media/Cricket.c28df79f565af0c866a4.jpg",
     "static/media/Saurabh_Pawar_Resume.pdf": "/static/media/Saurabh_Pawar_Resume.0eff42503f673d9f9eee.pdf",
     "static/media/myPic.jpg": "/static/media/myPic.9264117a4cb767d2748e.jpg",
@@ -19,16 +18,16 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.3dbf2f6e.css.map": "/static/css/main.3dbf2f6e.css.map",
-    "main.8b837ca6.js.map": "/static/js/main.8b837ca6.js.map",
-    "876.44016d11.chunk.js.map": "/static/js/876.44016d11.chunk.js.map",
-    "182.6aeefb2b.chunk.js.map": "/static/js/182.6aeefb2b.chunk.js.map",
+    "main.c40f2dd6.js.map": "/static/js/main.c40f2dd6.js.map",
+    "876.fa577b6a.chunk.js.map": "/static/js/876.fa577b6a.chunk.js.map",
+    "182.b36504ef.chunk.js.map": "/static/js/182.b36504ef.chunk.js.map",
     "702.dbe79fd9.chunk.js.map": "/static/js/702.dbe79fd9.chunk.js.map",
     "933.8b3efcbc.chunk.js.map": "/static/js/933.8b3efcbc.chunk.js.map",
     "619.7e34dd61.chunk.js.map": "/static/js/619.7e34dd61.chunk.js.map",
-    "95.e5cdff88.chunk.js.map": "/static/js/95.e5cdff88.chunk.js.map"
+    "593.4c4b5077.chunk.js.map": "/static/js/593.4c4b5077.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3dbf2f6e.css",
-    "static/js/main.8b837ca6.js"
+    "static/js/main.c40f2dd6.js"
   ]
 }
