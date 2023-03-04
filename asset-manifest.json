@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3dbf2f6e.css",
-    "main.js": "/static/js/main.00756933.js",
+    "main.js": "/static/js/main.fb3812e2.js",
     "static/js/876.44016d11.chunk.js": "/static/js/876.44016d11.chunk.js",
     "static/js/926.72a8ddaa.chunk.js": "/static/js/926.72a8ddaa.chunk.js",
     "static/js/702.a8225adc.chunk.js": "/static/js/702.a8225adc.chunk.js",
@@ -12,13 +12,13 @@
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/Cricket.jpg": "/static/media/Cricket.c28df79f565af0c866a4.jpg",
-    "static/media/Saurabh-Pawar-Resume.pdf": "/static/media/Saurabh-Pawar-Resume.984fc8c7362320ad6a23.pdf",
+    "static/media/Saurabh_Pawar_Resume.pdf": "/static/media/Saurabh_Pawar_Resume.ba460862dd57972701d8.pdf",
     "static/media/myPic.jpg": "/static/media/myPic.9264117a4cb767d2748e.jpg",
     "static/media/Expedia.jpg": "/static/media/Expedia.b36e646373cc11d13ec2.jpg",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.3dbf2f6e.css.map": "/static/css/main.3dbf2f6e.css.map",
-    "main.00756933.js.map": "/static/js/main.00756933.js.map",
+    "main.fb3812e2.js.map": "/static/js/main.fb3812e2.js.map",
     "876.44016d11.chunk.js.map": "/static/js/876.44016d11.chunk.js.map",
     "926.72a8ddaa.chunk.js.map": "/static/js/926.72a8ddaa.chunk.js.map",
     "702.a8225adc.chunk.js.map": "/static/js/702.a8225adc.chunk.js.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.3dbf2f6e.css",
-    "static/js/main.00756933.js"
+    "static/js/main.fb3812e2.js"
   ]
 }
